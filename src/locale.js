@@ -713,6 +713,40 @@ const locale = {
     'windy': 'Vânt',
     'windy-variant': 'Vânt'
   },
+   tr: {
+    'tempHi': 'Sıcaklık',
+    'tempLo': 'Sıcaklık Gece',
+    'precip': 'Yağışlar',
+    'feelsLike': 'Hissedilen',
+    'units': {
+      'km/h': 'km/h',
+      'm/s': 'm/s',
+      'mph': 'mph',
+      'Bft': 'Bft',
+      'hPa': 'hPa',
+      'mmHg': 'mm Hg',
+      'mm': 'mm',
+      'in': 'in'
+    },
+    'cardinalDirections': [
+      'N', 'N-NE', 'NE', 'E-NE', 'E', 'E-SE', 'SE', 'S-SE',
+      'S', 'S-SW', 'SW', 'W-SW', 'W', 'W-NW', 'NW', 'N-NW', 'N'
+    ],
+    'clear-night': 'Clear, night',
+    'cloudy': 'Cloudy',
+    'fog': 'Sisli',
+    'hail': 'Dolu',
+    'lightning': 'Şimşekli',
+    'lightning-rainy': 'Şimşekli, yağmurlu',
+    'partlycloudy': 'Parçalı Bulutlu',
+    'pouring': 'Sağanak',
+    'rainy': 'Yağmurlu',
+    'snowy': 'Karlı',
+    'snowy-rainy': 'Karla Karışık Yağmur',
+    'sunny': 'Güneşli',
+    'windy': 'Rüzgarlı',
+    'windy-variant': 'Rüzgarlı'
+  },
   uk: {
     'tempHi': 'Температура',
     'tempLo': 'Температура вночі',
